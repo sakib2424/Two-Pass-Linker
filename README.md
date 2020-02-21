@@ -37,4 +37,4 @@ Your program must check the input for the errors listed below. All error message
 * If an absolute address exceeds the size of the machine, print an error message and use the largest legal value.
 * If multiple symbols are listed as used in the same instruction, print an error message and ignore all but the last usage
 given.
-* If an address appearing in a definition exceeds the size of the module, print an error message and treat the address
+* If an address appearing in a definition exceeds the size of the module, print an error message and treat the address given as the last word in the module.
