@@ -1,0 +1,6 @@
+# Two Pass Linker Instructions
+1. CD into the directory where the file is
+2. Compile the file using the command "javac twopass.javac"
+3. Run the program using the command "java twopass"
+4. Paste the entire input into the console
+5. The result will be displayed
